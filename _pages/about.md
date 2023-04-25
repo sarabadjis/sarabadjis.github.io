@@ -12,7 +12,7 @@ Stuff & Things
 
 ## Professional
 
-Look at all the work that I do, results that I have! 
+Geographery, statistics, demography...
 
 
 ## Personal
