@@ -41,16 +41,15 @@ plugins:
 paginate: 2 # jekyll-paginate > items per page
 paginate_path: blog/page:num # jekyll-paginate > blog page
 jekyll-mentions: https://twitter.com # jekyll-mentions > service used when @replying
-twitter:
-  username: sean_reid # jekyll-seo-tag > Owners twitter username
-author: Sean Reid # jekyll-seo-tag > default author
+#twitter:
+#  username: sarabhadji # jekyll-seo-tag > Owners twitter username
+author: Sophia Arabadjis # jekyll-seo-tag > default author
 social: # jekyll-seo-tag > social overrides
-  name: Sean Reid # jekyll-seo-tag > real name
+  name: Sophia Arabadjis # jekyll-seo-tag > real name
   links:  # jekyll-seo-tag > social aliases (sameAs)
-    - https://twitter.com/sean_reid
-    - https://www.facebook.com/sean.reid.184
-    - https://www.linkedin.com/in/sean-reid-a6a497a0/
-    - https://github.com/seanreid5454
+ #   - https://twitter.com/SArabhadji
+    - https://www.linkedin.com/in/sophia-arabadjis/
+    - https://github.com/sarabadjis
 # markdown: CommonMark # Markdown parse settings, CommonMark performs slightly better an others in build time
 # commonmark:
   # options: ["SMART", "FOOTNOTES"]
@@ -96,13 +95,13 @@ defaults:
 # 7. Site settings
 encoding: utf-8 # Make sure the encoding is right
 lang: en-GB # Set the site language
-title: "Sean Reid" # Site name or title, also used in jekyll-seo-tag
+title: "Sophia Arabadjis" # Site name or title, also used in jekyll-seo-tag
 logo: "/assets/logos/sun.jpeg" # Site logo, also used in jekyll-seo-tag
-description: "A personal site for Sean Reid" # Site description and default description, also used in jekyll-seo-tag
+description: "A personal site for Sophia Arabadjis" # Site description and default description, also used in jekyll-seo-tag
 url: "https://alembic.darn.es" # Site url, also used in jekyll-seo-tag ## CHANGE THIS ONCE YOU GET ON GITHUB!!!
 baseurl: ""
-repo: "https://github.com/seanreid5454"
-email: "seanreid@ucsb.edu"
+repo: "https://github.com/sarabadjis"
+email: "sarabadjis@ucsb.edu"
 # disqus: "alembic-1" # Blog post comments, uncomment the option and set the site ID from your Disqus account
 # date_format: "%-d %B %Y" # Blog post date formatting using placeholder formatting
 # google_analytics: ""
@@ -136,19 +135,19 @@ navigation_header:
   url: /contact/
 
 navigation_footer:
-- title: Created by Sean Reid
+- title: Created by Sophia Arabadjis
   url: /cv/
 
 social_links: # Appears in sidebar. Set the urls then uncomment and comment out as desired
-  Twitter: https://twitter.com/sean_reid
-  LinkedIn: https://www.linkedin.com/in/sean-reid-a6a497a0/
-  GitHub: https://github.com/seanreid5454
+  #Twitter: https://twitter.com/sarabhadji
+  LinkedIn: https://www.linkedin.com/in/sophia-arabadjis/
+  GitHub: https://github.com/sarabadjis
   link: https://darn.es ## I'm not sure i even need this and might comment it out.
   RSS: /feed.xml ## Need to set this RSS feed up. I saw how to do it in another tutorial
 
 sharing_links: # Appear at the bottom of single blog posts, add as desired. The value can be 'true' or the desired button colour
-  Twitter: "#0d94e7"
-  facebook: "#3B5998" #Maybe comment this out. I'm not sure I want my facebook to be linked here.
+  #Twitter: "#0d94e7"
+  #facebook: "#3B5998" #Maybe comment this out. I'm not sure I want my facebook to be linked here.
   Email: true
 
 # Load custom fonts from fonts.google.com etc
