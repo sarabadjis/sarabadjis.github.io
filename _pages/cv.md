@@ -18,14 +18,18 @@ a.uline {text-decoration:underline;}
 ## Education
 ---
 **In Progress**<br>
-Ph.D. in Knowledge<br>
-University<br>
-*Advisor: Prof. Albert Einstein*
+Ph.D. in Geography<br>
+University of California Santa Barbara<br>
+*Advisor: Prof. Stuart Sweeney*
 
-**1990-2010**<br>
-B.S. in Partying<br>
-School<br>
-*Advisor: Prof. Paul Dirac*
+**2019-2022**<br>
+Masters in Statistics and Data Science<br>
+University of California Santa Barbara 
+
+**2013-2015**<br>
+MSc in Applied Social Research <br>
+Trinity College Dublin <br>
+*Dr. Mark Ward*
 
 ## Research experience
 ---
@@ -35,6 +39,7 @@ Position<br>
 I accomplished some things.<br>
 *Relevant Publications: <a href="../publications/publication1" class="uline">Name2 et al. 2016</a>*<br>
 
+** 2015-2018 ** 
 
 ## Service and Outreach
 ---
