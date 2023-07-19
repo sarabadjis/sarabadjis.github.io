@@ -4,7 +4,7 @@ collection: teaching
 type: "New graduate student course"
 permalink: /teaching/course1
 university: "University"
-date: 2021-09-20
+date: 2023-09-20
 semester: "Fall 2021, Fall 2022, Fall 2023"
 ---
 
