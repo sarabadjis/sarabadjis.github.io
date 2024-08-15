@@ -102,10 +102,10 @@ analytics:
 author:
   name             : "Sophia Arabadjis"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "PhD Candidate in Geography"
+  bio              : "Postdoctoral Fellow"
   location         :
   employer         :
-  email            : "sarabadjis@ucsb.edu"
+  email            : "sophia.arabadjis@sph.cuny.edu"
   uri              :
   home             : # null (default), "absolute or relative url to link to author home"
   bitbucket        :
