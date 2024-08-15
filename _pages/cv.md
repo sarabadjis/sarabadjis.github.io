@@ -60,7 +60,7 @@ University of Chicago <br>
 
 **Arabadjis SD**, Sweeney S. (2024). <a href = "https://doi.org/10.1016/j.sste.2024.100646" class="uline">
   "Residuals in Space: Potential Pitfalls and Applications from Single-Institution Survival Analysis" </a>
-    *Spatial and Spatio-temporal Epidemiology.* Vol 49 June.
+    *Spatial and Spatio-temporal Epidemiology.* Vol 49 June. PMID 38876556
 
 **Arabadjis SD**, Sweeney S. (2023).  <a href = "https://doi.org/10.5281/zenodo.8436872" class="uline">
   "New Methods in Time-Use Data Collection: Detecting Subgroup Differences" </a>
