@@ -88,15 +88,13 @@ class = "uline"> "Chapter 15: Spatial point patterns" </a>. In the *Handbook of 
 Cheltenham, UK: Edward Elgar Publishing. November 15, 2022.
 
 **Arabadjis S.D.**, Sullivan E.E., <a href = "https://doi.org/10.1108/JHOM-03-2020-0071" class = "uline">
-"Data and HIT Systems in Primary Care Settings: an Analysis of Perceptions and Use''</a>. *Journal of Health Organization and Management*.
- 2021. Vol. 35 No.4, pp.425-442, PMID 33354961.
+"Data and HIT Systems in Primary Care Settings: an Analysis of Perceptions and Use''</a>. *Journal of Health Organization and Management*. 2021. Vol. 35 No.4, pp.425-442, PMID 33354961.
 
  Sullivan, E. E., **Arabadjis S.D.**, Alpert J., Ellner A. <a href = "https://doi.org/10.33423/jop.v18i5.277" class = "uline">
  "Culture: The Unexpected key to exemplary primary care'' </a>. *Journal of Organizational Psychology*. 2018. 18(5).
 
 Jack H., **Arabadjis SD**, Sullivan E. E., Phillips R. <a href = "https://link.springer.com/article/10.1007/s11606-016-3922-9" class= "uline">
-"Impact of Community Health Workers on Use of Healthcare Services in the United States: A Systematic Review” </a>. *Journal of General Internal Medicine*.
-2017 March;32(3):325-344. PMID: 27921257.
+"Impact of Community Health Workers on Use of Healthcare Services in the United States: A Systematic Review” </a>. *Journal of General Internal Medicine*. 2017 March;32(3):325-344. PMID: 27921257.
 
 Basu S, Jack H., **Arabadjis, S.**, Phillips R.. <a href = "https://pubmed.ncbi.nlm.nih.gov/27547954/" class = "uline">
 "Benchmarks for Reducing Emergency Department Visits and Hospitalizations Through Community Health Workers Integrated Into Primary Care: A Cost-Benefit Analysis” </a>.
