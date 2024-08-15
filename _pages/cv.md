@@ -62,7 +62,7 @@ University of Chicago <br>
   "Residuals in Space: Potential Pitfalls and Applications from Single-Institution Survival Analysis" </a>
     *Spatial and Spatio-temporal Epidemiology.* Vol 49 June.
 
-**Arabadjis SD**, Sweeney S. (2023).  <a \href = "https://doi.org/10.5281/zenodo.8436872" class="uline">
+**Arabadjis SD**, Sweeney S. (2023).  <a href = "https://doi.org/10.5281/zenodo.8436872" class="uline">
   "New Methods in Time-Use Data Collection: Detecting Subgroup Differences" </a>
     *2023 JSM Proceedings, Seasonal Adjustment and Official Statistics*. Available Online December 2023.
 
