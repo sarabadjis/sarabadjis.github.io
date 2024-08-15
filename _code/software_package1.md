@@ -2,9 +2,10 @@
 title: "software_package1"
 collection: code
 permalink: /code/software_package1
-excerpt: "A package that calculates some numbers!"
-date: 2018-05-15
-repo: "https://github.com/user/reponame"
+excerpt: "Time Use Diary Simulation"
+date: 2024-01-01
 ---
 ## Summary
-This package takes in two numbers and adds them together!
+This package-in-progress simulated realistic human time use patterns from known activity proportions using survival methods.
+
+*/repo: "https://github.com/user/reponame"

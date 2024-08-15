@@ -6,4 +6,4 @@ author_profile: true
 classes: wide
 ---
 
-Here's my contact info
+Please feel free to email me at sophia.arabadjis-at-sph.cuny.edu; I look forward to connecting.
