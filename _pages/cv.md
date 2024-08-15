@@ -13,7 +13,7 @@ a.uline {text-decoration:underline;}
 
 {% include base_path %}
 
-<a href="/Users/sophiaarabadjis/Mirror/CV_SArabadjis_081524.pdf" class="uline">Click here for a full pdf copy of my CV</a>
+<a href="https://github.com/sarabadjis/sarabadjis.github.io/blob/main/CV_SArabadjis_081524.pdf" class="uline">Click here for a full pdf copy of my CV</a>
 
 ## Education
 ---
